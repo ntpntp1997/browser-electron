@@ -1,3 +1,5 @@
+# browser-electron
+
 <img src="internals/img/erb-banner.png" width="100%" />
 
 <br>
@@ -40,7 +42,7 @@
 
 <div align="center">
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
+<!-- ![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif) -->
 
 </div>
 
@@ -77,7 +79,7 @@ To package apps for the local platform:
 $ yarn package
 ```
 
-## Docs
+<!-- ## Docs
 
 See our [docs and guides here](https://electron-react-boilerplate.js.org/docs/installation)
 
@@ -184,5 +186,4 @@ MIT © [Electron React Boilerplate](https://github.com/electron-react-boilerplat
 [david-dev-image]: https://img.shields.io/david/dev/electron-react-boilerplate/electron-react-boilerplate.svg?label=devDependencies
 [david-dev-url]: https://david-dm.org/electron-react-boilerplate/electron-react-boilerplate?type=dev
 [good-first-issue-image]: https://img.shields.io/github/issues/electron-react-boilerplate/electron-react-boilerplate/good%20first%20issue.svg?label=good%20first%20issues
-[good-first-issue-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"
-# browser-electron
+[good-first-issue-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue" -->
